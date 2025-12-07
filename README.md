@@ -1,16 +1,22 @@
-## Hi there 👋
-
-<!--
-**0x42726f/0x42726f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>Hi I'm <i><a href="https://github.com/0x42726f" rel="nofollow"><b>Bro</b></i></a>, And I'm</h1>
+```javascript
+const data = {
+    pronouns: "He" | "Him",
+    codename: "Bro",
+    status: "Still alive...",
+    doing: "Forging Web Realms...",
+    code: ["{Python}", "{Javascript}", "{Typescript}", "{Bash}"],
+    askMeAbout: ["web dev", "cyber sec"],
+    webdev: {
+        frontEnd: {
+            technologies: ["HTML", "CSS", "JavaScript", "Bootstrap", "React JS", "Tailwind CSS", "GSAP", "Framer Motion"],
+        },
+        backEnd: {
+            technologies: ["Node JS"],
+        }
+    },
+    contact: {
+        "email": "xolboyev@proton.me",
+    },
+};
+```
