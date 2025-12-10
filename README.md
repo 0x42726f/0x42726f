@@ -32,6 +32,7 @@ const me = {
 <h3 align="left">Languages and Tools:</h3>
 <img align="left" alt="linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="padding-right:10px;" />
 <img align="left" alt="arch" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" style="padding-right:10px;" />
+<img align="left" alt="BlackArch" width="26px" src="https://raw.githubusercontent.com/BlackArch/blackarch-artwork/refs/heads/master/logo/logo-38-49.png" style="padding-right:10px;" />
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
@@ -40,4 +41,4 @@ const me = {
 <img align="left" alt="tailwind" width="33px" src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Material UI" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" style="padding-right:10px;" />
+<img align="left" alt="NeoVim" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" style="padding-right:10px;" />
