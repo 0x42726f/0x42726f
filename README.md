@@ -11,10 +11,10 @@ const me = {
     askMeAbout: ["web dev", "cyber sec"],
     webdev: {
         frontEnd: {
-            technologies: [ "HTML", "CSS", "JavaScript", "Bootstrap", "React JS", "Tailwind CSS", "Material UI"],
+            technologies: [ "HTML", "CSS", "JavaScript", "Bootstrap", "React JS", "Tailwind CSS", "Material UI", "Gsap", "ThreeJS"],
         },
         backEnd: {
-            technologies: ["Node JS"],
+            technologies: [""],
         }
     },
     contact: {
